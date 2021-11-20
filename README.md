@@ -1,0 +1,14 @@
+# full_x660c_h653-user 10 QP1A.190711.020 87664 release-keys
+- manufacturer: 
+- platform: mt6765
+- codename: Infinix-X660C
+- flavor: full_x660c_h653-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: CF-OP-210315V406
+- tags: release-keys
+- fingerprint: Infinix/X660C-OP/Infinix-X660C:10/QP1A.190711.020/CF-OP-210315V406:user/release-keys
+- is_ab: false
+- brand: Infinix
+- branch: full_x660c_h653-user-10-QP1A.190711.020-87664-release-keys
+- repo: infinix_infinix-x660c_dump
